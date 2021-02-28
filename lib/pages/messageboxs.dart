@@ -4,7 +4,7 @@ import 'package:instantchatting/modals/user.dart';
 import 'package:instantchatting/pages/abox.dart';
 import 'package:instantchatting/pages/newprofile.dart';
 import 'package:instantchatting/pages/search.dart';
-import 'package:instantchatting/services/Message.dart';
+import 'package:instantchatting/modals/Message.dart';
 import 'package:instantchatting/services/auth.dart';
 import 'package:instantchatting/services/firestore.dart';
 import 'package:instantchatting/widgets/textstyle.dart';
