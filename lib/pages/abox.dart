@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:instantchatting/modals/user.dart';
 import 'package:instantchatting/pages/newprofile.dart';
-import 'package:instantchatting/modals/Message.dart';
+import 'package:instantchatting/services/Message.dart';
 import 'package:instantchatting/services/auth.dart';
 import 'package:instantchatting/services/firestore.dart';
 import 'package:provider/provider.dart';

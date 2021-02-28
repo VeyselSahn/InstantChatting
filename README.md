@@ -1,2 +1,2 @@
 # InstantChatting
- private and safe chatting
+ safe and private chatting
