@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572847464010",
+    "project_id": "instantchat-9c1ae",
+    "storage_bucket": "instantchat-9c1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572847464010:android:117f271a044eb17d7850b3",
+        "android_client_info": {
+          "package_name": "com.example.instantchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572847464010-12d9v9dvc62c0sqiv3mq416tndl3hotg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLXcmjZ2ziOX6__AGdmoHyF7qvGF9y1qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572847464010-12d9v9dvc62c0sqiv3mq416tndl3hotg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
