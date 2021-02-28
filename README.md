@@ -1,2 +1,3 @@
 # InstantChatting
- safe and private chatting
+ This app about chatting instantly and I used flutter and firebase.
+ 
